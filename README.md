@@ -8,4 +8,4 @@ This project was created to teach others how to build different Machine Learning
 
 **Disclaimer: I'm also learning with you when it comes to ML, I'm using this project to make sure I understand concepts.**
 
-#Usage
+## Usage
