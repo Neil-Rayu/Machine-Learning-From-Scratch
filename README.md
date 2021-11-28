@@ -1,5 +1,6 @@
 <p align="center">
 # Machine Learning From Scratch
+  
 ![Group 1 (3)](https://user-images.githubusercontent.com/94305488/143724601-5a48bdb0-47f1-4bec-b09f-7adc486e459d.png)
 
 ---
