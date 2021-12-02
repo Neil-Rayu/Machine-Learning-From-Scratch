@@ -1,6 +1,6 @@
 # Machine Learning From Scratch
 <p align="center">
-  <img src = "https://user-images.githubusercontent.com/94305488/143724601-5a48bdb0-47f1-4bec-b09f-7adc486e459d.png"></img>
+  <img src = "https://user-images.githubusercontent.com/94305488/143958506-f8117bd5-42cd-4dcd-b77c-b4f26b9e1842.png"></img>
 </p>
 
 This project was created to serve as a guide for building different Machine Learning models from scratch. All to often people get abstracted away from the fundamentals of Machine Learning, 
